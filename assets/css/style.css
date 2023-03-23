@@ -80,6 +80,11 @@ nav.header div ul li {
   max-height: 200px;
 }
 
+.search-engine-optimization h2 {
+  margin-bottom: 20px;
+  font-size: 36px;
+}
+
 .search-engine-optimization {
   margin-bottom: 20px;
   padding: 50px;
@@ -91,6 +96,11 @@ nav.header div ul li {
 
 .online-reputation-management img {
   max-height: 200px;
+}
+
+.online-reputation-management h2 {
+  margin-bottom: 20px;
+  font-size: 36px;
 }
 
 .online-reputation-management {
@@ -106,6 +116,11 @@ nav.header div ul li {
   max-height: 200px;
 }
 
+.social-media-marketing h2 {
+  margin-bottom: 20px;
+  font-size: 36px;
+}
+
 .social-media-marketing {
   margin-bottom: 20px;
   padding: 50px;
@@ -113,21 +128,6 @@ nav.header div ul li {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   background-color: #0072bb;
   color: #ffffff;
-}
-
-.search-engine-optimization h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
-}
-
-.online-reputation-management h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
-}
-
-.social-media-marketing h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
 }
 
 .benefits {
